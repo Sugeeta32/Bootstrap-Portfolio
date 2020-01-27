@@ -11,7 +11,7 @@ color: #fff;
  .cont img{
 height:50px;
 width:50px;
-float: left;
+display: inline-block;
  }
  
  .icons{
