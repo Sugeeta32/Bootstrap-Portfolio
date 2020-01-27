@@ -13,6 +13,10 @@ height:100px;
 width:100px;
 float: left;
  }
+ .icons{
+    margin-left: 60px;
+    padding-left: 60px;
+ }
  /* #bgimg{ 
     font-size: 15px;
     background-size: 100%;
