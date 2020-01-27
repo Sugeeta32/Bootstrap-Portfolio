@@ -8,10 +8,10 @@ body{
 color: #fff;
 
  }
- .tech{
-     float : left;
-     height: 20px;
-     width : 20px;
+ .container img{
+height:100px;
+width:100px;
+float: left;
  }
  /* #bgimg{ 
     font-size: 15px;
